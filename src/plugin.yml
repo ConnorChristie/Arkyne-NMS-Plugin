@@ -1,0 +1,5 @@
+name: ArkyneNMSPlugin
+main: us.arkyne.nms.NMSMain
+version: 1.0.0
+authors: [Chiller]
+depend: [ArkyneServerPlugin]
